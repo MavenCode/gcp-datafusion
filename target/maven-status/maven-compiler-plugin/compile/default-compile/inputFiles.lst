@@ -1,0 +1,10 @@
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/FilesetMoveAction.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/FilesetDeletePostAction.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/WordCountSink.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/ErrorCollector.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/TextFileSetSource.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/WordCountAggregator.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/TextFileSetSink.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/WordCount.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/StringCaseTransform.java
+/Users/omoniyi/IdeaProjects/gcp-datafusion/src/main/java/com/mavencode/plugin/WordCountCompute.java

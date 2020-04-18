@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.mavencode.plugin.PipelineTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 292.288 sec
+testTextFileSinkAndDeletePostAction(com.mavencode.plugin.PipelineTest)  Time elapsed: 46.037 sec
+testWordCountSparkSink(com.mavencode.plugin.PipelineTest)  Time elapsed: 35.974 sec
+testWordCountSparkCompute(com.mavencode.plugin.PipelineTest)  Time elapsed: 24.15 sec
+testStringCaseTransform(com.mavencode.plugin.PipelineTest)  Time elapsed: 31.237 sec
+testTextFileSourceAndMoveAction(com.mavencode.plugin.PipelineTest)  Time elapsed: 30.706 sec
+testWordCountAggregator(com.mavencode.plugin.PipelineTest)  Time elapsed: 42.285 sec
